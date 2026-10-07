@@ -18,19 +18,26 @@ public class Syntax {
         sonu();
     }
 
-  public  static void sonu() {
-      System.out.println("Shahnawaz");
-      Raju();
+    public static void sonu() {
+        System.out.println("Shahnawaz");
+        Raju();
     }
-    public  static void Raju() {
+
+    public static void Raju() {
         System.out.println("Rohan");
     }
-    public  static void Masum() {
+
+    public static void Masum() {
         System.out.println("soni");
 
     }
-    public static void Sameer(){
+
+    public static void Sameer() {
         System.out.println("Raju");
     }
-}
 
+    public static void Sohan() {
+        System.out.println("Raj");
+    }
+
+}
