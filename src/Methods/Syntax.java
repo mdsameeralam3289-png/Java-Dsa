@@ -29,5 +29,8 @@ public class Syntax {
         System.out.println("soni");
 
     }
+    public static void Sameer(){
+        System.out.println("Raju");
+    }
 }
 
