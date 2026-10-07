@@ -6,7 +6,7 @@ public class Arguments {
 
     }
 
-    static void main(String[] args) {
+   public static void main(String[] args) {
        sum(4,5,6);
 
     }
